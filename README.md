@@ -1,1 +1,1 @@
-# mi-segundo-repositorio
+# mi-primer-repositorio en GitHub para el curso de freCodeCamp
